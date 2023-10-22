@@ -1,0 +1,14 @@
+body {
+    background-color: #f5f5dc
+}
+
+
+div {
+    width: 100%;
+    /* whatever */
+    display: inline-block;
+}
+
+.header img {
+    float: left;
+}
